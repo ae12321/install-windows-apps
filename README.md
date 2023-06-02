@@ -30,6 +30,10 @@
    choco install -y vlc
    choco install -y discord
    choco install -y slack
+   choco install -y notion
+   choco install -y googlechrome
+   choco install -y brave
+   choco install -y steam
    choco install -y wsl2 --params "/Version:2 /Retry:true"
    choco install -y wsl-ubuntu-2004 --params "/InstallRoot:true"
    choco install -y docker-desktop
